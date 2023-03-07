@@ -1,1 +1,2 @@
 # Student-Management-System
+#The program is designed to manage student information using a list data structure in Java. The user can add or remove students from the list, and view all students stored in the list. The Student class has attributes for student name, ID, and email, and a method to return a string representation of a student. The main function uses a Scanner to get input from the user and a switch statement to handle different menu options.#
